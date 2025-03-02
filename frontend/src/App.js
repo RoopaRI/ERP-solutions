@@ -4,7 +4,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Frontend
+        <div>
+          <p>Dashoard</p>
+        </div>
       </header>
     </div>
   );
