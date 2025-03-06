@@ -5,7 +5,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div>
-          <p>Dashoard</p>
+          <h1>Dashoard</h1>
+          <p>Inventories</p>
+          <p>Accounts</p>
+          <p>HR</p>
+          <p>Customer services</p>
         </div>
       </header>
     </div>
